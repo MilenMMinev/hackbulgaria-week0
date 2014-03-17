@@ -1,1 +1,1 @@
-\n and now I add someting
+\n a repo with all the problems for week0
