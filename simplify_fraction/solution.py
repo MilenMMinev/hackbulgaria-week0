@@ -7,7 +7,6 @@ def gcd(a, b):
 
 def simplify_fraction(fraction):
 	d = gcd(fraction[0], fraction[1])
-	print(d)
 	return(fraction[0] // d, fraction[1] // d)
 
 
