@@ -1,1 +1,2 @@
-\n a repo with all the problems for week0
+A repo with basic problems.
+Also includes tests.
